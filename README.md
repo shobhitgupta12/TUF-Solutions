@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **5** | 5 | 0 | 0 | `2026-09-11` |
+| **6** | 6 | 0 | 0 | `2026-09-11` |
 
 ---
 
@@ -19,6 +19,7 @@
 | 0003 | [Pattern 13](./DSA/Beginner-Problems/pattern-13) | [PY](./DSA/Beginner-Problems/pattern-13/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
 | 0004 | [Pattern 14](./DSA/Beginner-Problems/pattern-14) | [PY](./DSA/Beginner-Problems/pattern-14/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
 | 0005 | [Pattern 15](./DSA/Beginner-Problems/pattern-15) | [PY](./DSA/Beginner-Problems/pattern-15/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0006 | [Pattern 16](./DSA/Beginner-Problems/pattern-16) | [PY](./DSA/Beginner-Problems/pattern-16/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
 
 ---
 
