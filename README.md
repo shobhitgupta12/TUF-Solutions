@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **0** | 0 | 0 | 0 | `2026-09-11` |
+| **1** | 1 | 0 | 0 | `2026-09-11` |
 
 ---
 
@@ -14,7 +14,7 @@
 
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
-| - | No problems synced yet | - | - | - |
+| 0001 | [Pattern 11](./DSA/Beginner-Problems/pattern-11) | [PY](./DSA/Beginner-Problems/pattern-11/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
 
 ---
 
