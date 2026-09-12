@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **12** | 10 | 2 | 0 | `2026-09-12` |
+| **13** | 11 | 2 | 0 | `2026-09-12` |
 
 ---
 
@@ -26,6 +26,7 @@
 | 0010 | [Pattern 20](./DSA/Beginner-Problems/pattern-20) | [PY](./DSA/Beginner-Problems/pattern-20/solution.py) | 🟡 Medium | `DSA` / `Beginner-Problems` |
 | 0011 | [Pattern 21](./DSA/Beginner-Problems/pattern-21) | [PY](./DSA/Beginner-Problems/pattern-21/solution.py) | 🟡 Medium | `DSA` / `Beginner-Problems` |
 | 0012 | [Print 1 to N using Recursion](./DSA/Recursion/print-1-to-n-using-recursion) | [PY](./DSA/Recursion/print-1-to-n-using-recursion/solution.py) | 🟢 Easy | `DSA` / `Recursion` |
+| 0013 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [PY](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
 
 ---
 
