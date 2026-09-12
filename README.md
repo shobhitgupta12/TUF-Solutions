@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **20** | 18 | 2 | 0 | `2026-09-12` |
+| **21** | 19 | 2 | 0 | `2026-09-12` |
 
 ---
 
@@ -21,19 +21,20 @@
 | 0005 | [Count the Number of Set Bits](./DSA/Bit-Manipulation/count-the-number-of-set-bits) | [PY](./DSA/Bit-Manipulation/count-the-number-of-set-bits/solution.py) | 🟢 Easy | `DSA` / `Bit-Manipulation` |
 | 0006 | [Counting Frequencies of Array Elements](./DSA/Arrays/counting-frequencies-of-array-elements) | [PY](./DSA/Arrays/counting-frequencies-of-array-elements/solution.py) | 🟢 Easy | `DSA` / `Arrays` |
 | 0007 | [Factorial of a given number](./DSA/Beginner-Problems/factorial-of-a-given-number) | [PY](./DSA/Beginner-Problems/factorial-of-a-given-number/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
-| 0008 | [Pattern 11](./DSA/Beginner-Problems/pattern-11) | [PY](./DSA/Beginner-Problems/pattern-11/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
-| 0009 | [Pattern 12](./DSA/Beginner-Problems/pattern-12) | [PY](./DSA/Beginner-Problems/pattern-12/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
-| 0010 | [Pattern 13](./DSA/Beginner-Problems/pattern-13) | [PY](./DSA/Beginner-Problems/pattern-13/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
-| 0011 | [Pattern 14](./DSA/Beginner-Problems/pattern-14) | [PY](./DSA/Beginner-Problems/pattern-14/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
-| 0012 | [Pattern 15](./DSA/Beginner-Problems/pattern-15) | [PY](./DSA/Beginner-Problems/pattern-15/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
-| 0013 | [Pattern 16](./DSA/Beginner-Problems/pattern-16) | [PY](./DSA/Beginner-Problems/pattern-16/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
-| 0014 | [Pattern 17](./DSA/Beginner-Problems/pattern-17) | [PY](./DSA/Beginner-Problems/pattern-17/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
-| 0015 | [Pattern 19](./DSA/Beginner-Problems/pattern-19) | [PY](./DSA/Beginner-Problems/pattern-19/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
-| 0016 | [Pattern 20](./DSA/Beginner-Problems/pattern-20) | [PY](./DSA/Beginner-Problems/pattern-20/solution.py) | 🟡 Medium | `DSA` / `Beginner-Problems` |
-| 0017 | [Pattern 21](./DSA/Beginner-Problems/pattern-21) | [PY](./DSA/Beginner-Problems/pattern-21/solution.py) | 🟡 Medium | `DSA` / `Beginner-Problems` |
-| 0018 | [Print 1 to N using Recursion](./DSA/Recursion/print-1-to-n-using-recursion) | [PY](./DSA/Recursion/print-1-to-n-using-recursion/solution.py) | 🟢 Easy | `DSA` / `Recursion` |
-| 0019 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [PY](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
-| 0020 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [PY](./DSA/General/swap-two-numbers/solution.py) | 🟢 Easy | `DSA` |
+| 0008 | [Highest Occurring Element in an Array](./DSA/Beginner-Problems/highest-occurring-element-in-an-array) | [PY](./DSA/Beginner-Problems/highest-occurring-element-in-an-array/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0009 | [Pattern 11](./DSA/Beginner-Problems/pattern-11) | [PY](./DSA/Beginner-Problems/pattern-11/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0010 | [Pattern 12](./DSA/Beginner-Problems/pattern-12) | [PY](./DSA/Beginner-Problems/pattern-12/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0011 | [Pattern 13](./DSA/Beginner-Problems/pattern-13) | [PY](./DSA/Beginner-Problems/pattern-13/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0012 | [Pattern 14](./DSA/Beginner-Problems/pattern-14) | [PY](./DSA/Beginner-Problems/pattern-14/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0013 | [Pattern 15](./DSA/Beginner-Problems/pattern-15) | [PY](./DSA/Beginner-Problems/pattern-15/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0014 | [Pattern 16](./DSA/Beginner-Problems/pattern-16) | [PY](./DSA/Beginner-Problems/pattern-16/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0015 | [Pattern 17](./DSA/Beginner-Problems/pattern-17) | [PY](./DSA/Beginner-Problems/pattern-17/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0016 | [Pattern 19](./DSA/Beginner-Problems/pattern-19) | [PY](./DSA/Beginner-Problems/pattern-19/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0017 | [Pattern 20](./DSA/Beginner-Problems/pattern-20) | [PY](./DSA/Beginner-Problems/pattern-20/solution.py) | 🟡 Medium | `DSA` / `Beginner-Problems` |
+| 0018 | [Pattern 21](./DSA/Beginner-Problems/pattern-21) | [PY](./DSA/Beginner-Problems/pattern-21/solution.py) | 🟡 Medium | `DSA` / `Beginner-Problems` |
+| 0019 | [Print 1 to N using Recursion](./DSA/Recursion/print-1-to-n-using-recursion) | [PY](./DSA/Recursion/print-1-to-n-using-recursion/solution.py) | 🟢 Easy | `DSA` / `Recursion` |
+| 0020 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [PY](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0021 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [PY](./DSA/General/swap-two-numbers/solution.py) | 🟢 Easy | `DSA` |
 
 ---
 
