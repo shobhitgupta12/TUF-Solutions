@@ -25,7 +25,7 @@
 | 0009 | [Pattern 19](./DSA/Beginner-Problems/pattern-19) | [PY](./DSA/Beginner-Problems/pattern-19/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
 | 0010 | [Pattern 20](./DSA/Beginner-Problems/pattern-20) | [PY](./DSA/Beginner-Problems/pattern-20/solution.py) | 🟡 Medium | `DSA` / `Beginner-Problems` |
 | 0011 | [Pattern 21](./DSA/Beginner-Problems/pattern-21) | [PY](./DSA/Beginner-Problems/pattern-21/solution.py) | 🟡 Medium | `DSA` / `Beginner-Problems` |
-| 0012 | [Print N to 1 using Recursion](./DSA/Recursion/print-n-to-1-using-recursion) | [PY](./DSA/Recursion/print-n-to-1-using-recursion/solution.py) | 🟢 Easy | `DSA` / `Recursion` |
+| 0012 | [Print 1 to N using Recursion](./DSA/Recursion/print-1-to-n-using-recursion) | [PY](./DSA/Recursion/print-1-to-n-using-recursion/solution.py) | 🟢 Easy | `DSA` / `Recursion` |
 
 ---
 
