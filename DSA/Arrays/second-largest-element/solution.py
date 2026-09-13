@@ -1,22 +1,20 @@
 class Solution:
     def secondLargestElement(self, nums):
-        n = len(nums)
-        slargest = -10**5
-        largest = -10**4
         largest = nums[0]
-        for i in range(len(nums)):
-            if(nums[i]> largest):
+        slargest = -10**5
+        n = len(nums)
+        for i in range(n):
+            if(nums[i] > largest):
+                slargest = largest;
                 largest = nums[i]
+            else:
+                if(nums[i] < largest and nums[i]> slargest):
+                    slargest = nums[i]
+        if(slargest == -10**5):
+           return -1            
+        return slargest              
 
-
-        for i in range(len(nums)):
-            if(nums[i]>slargest and nums[i] !=largest):
-                slargest = nums[i]
-                
-        if slargest == -10**5:
-            return -1
-
-        return slargest                             
+        
 
 
         
