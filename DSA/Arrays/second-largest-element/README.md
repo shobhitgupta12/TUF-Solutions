@@ -1,4 +1,4 @@
-# [Second Largest Element](https://takeuforward.org/plus/dsa/problems/second-largest-element?source=strivers-a2z-dsa-track&approach=brute&tab=submissions)
+# [Second Largest Element](https://takeuforward.org/plus/dsa/problems/second-largest-element?source=strivers-a2z-dsa-track&approach=better&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 

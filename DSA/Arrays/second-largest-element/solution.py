@@ -1,14 +1,22 @@
 class Solution:
     def secondLargestElement(self, nums):
-        nums.sort()
         n = len(nums)
-        for i in range(n-2,-1,-1):
-            largest_element=nums[n-1]
-            if((nums[i] != largest_element)):
-                  second_largest = nums[i]
-                  break;
-        else: return -1 
-        return second_largest      
-                  
+        slargest = -10**5
+        largest = -10**4
+        largest = nums[0]
+        for i in range(len(nums)):
+            if(nums[i]> largest):
+                largest = nums[i]
+
+
+        for i in range(len(nums)):
+            if(nums[i]>slargest and nums[i] !=largest):
+                slargest = nums[i]
+                
+        if slargest == -10**5:
+            return -1
+
+        return slargest                             
+
 
         
