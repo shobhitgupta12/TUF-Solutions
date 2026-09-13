@@ -1,0 +1,58 @@
+# [Selection Sort](https://takeuforward.org/plus/dsa/problems/selection-sort?source=strivers-a2z-dsa-track&tab=submissions)
+
+![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
+
+---
+
+## 📝 Problem Statement
+
+Given an array of integers nums, sort the array in non-decreasing order using the **selection sort** algorithm and return the sorted array.
+
+A sorted array in non-decreasing order is an array where each element is greater than or equal to all previous elements in the array.
+
+### Example 1
+
+<p>
+
+**Input:** nums = [7, 4, 1, 5, 3]</p><p>
+
+**Output:** [1, 3, 4, 5, 7]</p><p>
+
+**Explanation:** 1 <= 3 <= 4 <= 5 <= 7.</p>Thus the array is sorted in non-decreasing order.
+
+### Example 2
+
+<p>
+
+**Input:** nums = [5, 4, 4, 1, 1]</p><p>
+
+**Output:** [1, 1, 4, 4, 5]</p><p>
+
+**Explanation:** 1 <= 1 <= 4 <= 4 <= 5.</p>Thus the array is sorted in non-decreasing order.
+
+### Example 3
+
+<p>
+
+**Input:** nums = [3, 2, 3, 4, 5]</p>Output:
+
+[2, 3, 3, 4, 5]
+
+### Constraints
+
+- 1 <= nums.length <= 1000
+- -10^4 <= nums[i] <= 10^4
+- nums[i] may contain duplicate values.
+
+---
+
+## 💡 Complexity Analysis
+
+- **Time Complexity:** $\mathcal{O}(N)$
+- **Space Complexity:** $\mathcal{O}(1)$
+
+---
+
+<p align="center">
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+</p>
