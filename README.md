@@ -37,12 +37,12 @@
 | 0021 | [Pattern 21](./DSA/Beginner-Problems/pattern-21) | [PY](./DSA/Beginner-Problems/pattern-21/solution.py) | 🟡 Medium | `DSA` / `Beginner-Problems` |
 | 0022 | [Print 1 to N using Recursion](./DSA/Recursion/print-1-to-n-using-recursion) | [PY](./DSA/Recursion/print-1-to-n-using-recursion/solution.py) | 🟢 Easy | `DSA` / `Recursion` |
 | 0023 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | 🟢 Easy | `DSA` / `Arrays` |
-| 0024 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [PY](./DSA/Binary-Search/search-x-in-sorted-array/solution.py) | 🟢 Easy | `DSA` / `Binary-Search` |
-| 0025 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [PY](./DSA/Arrays/second-largest-element/solution.py) | 🟢 Easy | `DSA` / `Arrays` |
-| 0026 | [Selection Sort](./DSA/Sorting/selection-sort) | [PY](./DSA/Sorting/selection-sort/solution.py) | 🟢 Easy | `DSA` / `Sorting` |
-| 0027 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [PY](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
-| 0028 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [PY](./DSA/General/swap-two-numbers/solution.py) | 🟢 Easy | `DSA` |
-| 0029 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [PY](./DSA/Binary-Search/upper-bound/solution.py) | 🟢 Easy | `DSA` / `Binary-Search` |
+| 0024 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [PY](./DSA/Binary-Search/search-insert-position/solution.py) | 🟢 Easy | `DSA` / `Binary-Search` |
+| 0025 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [PY](./DSA/Binary-Search/search-x-in-sorted-array/solution.py) | 🟢 Easy | `DSA` / `Binary-Search` |
+| 0026 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [PY](./DSA/Arrays/second-largest-element/solution.py) | 🟢 Easy | `DSA` / `Arrays` |
+| 0027 | [Selection Sort](./DSA/Sorting/selection-sort) | [PY](./DSA/Sorting/selection-sort/solution.py) | 🟢 Easy | `DSA` / `Sorting` |
+| 0028 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [PY](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0029 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [PY](./DSA/General/swap-two-numbers/solution.py) | 🟢 Easy | `DSA` |
 
 ---
 
