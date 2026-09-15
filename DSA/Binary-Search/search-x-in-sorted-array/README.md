@@ -1,4 +1,4 @@
-# [Search X in sorted array](https://takeuforward.org/plus/dsa/problems/search-x-in-sorted-array?source=strivers-a2z-dsa-track&tab=submissions)
+# [Search X in sorted array](https://takeuforward.org/plus/dsa/problems/search-x-in-sorted-array?source=strivers-a2z-dsa-track&tab=submissions&approach=recursive-solution)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
