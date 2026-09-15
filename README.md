@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **28** | 26 | 2 | 0 | `2026-09-15` |
+| **29** | 27 | 2 | 0 | `2026-09-15` |
 
 ---
 
@@ -42,6 +42,7 @@
 | 0026 | [Selection Sort](./DSA/Sorting/selection-sort) | [PY](./DSA/Sorting/selection-sort/solution.py) | 🟢 Easy | `DSA` / `Sorting` |
 | 0027 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [PY](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
 | 0028 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [PY](./DSA/General/swap-two-numbers/solution.py) | 🟢 Easy | `DSA` |
+| 0029 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [PY](./DSA/Binary-Search/upper-bound/solution.py) | 🟢 Easy | `DSA` / `Binary-Search` |
 
 ---
 
