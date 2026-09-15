@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **32** | 30 | 2 | 0 | `2026-09-15` |
+| **33** | 30 | 3 | 0 | `2026-09-15` |
 
 ---
 
@@ -40,12 +40,13 @@
 | 0024 | [Pattern 21](./DSA/Beginner-Problems/pattern-21) | [PY](./DSA/Beginner-Problems/pattern-21/solution.py) | 🟡 Medium | `DSA` / `Beginner-Problems` |
 | 0025 | [Print 1 to N using Recursion](./DSA/Recursion/print-1-to-n-using-recursion) | [PY](./DSA/Recursion/print-1-to-n-using-recursion/solution.py) | 🟢 Easy | `DSA` / `Recursion` |
 | 0026 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | 🟢 Easy | `DSA` / `Arrays` |
-| 0027 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [PY](./DSA/Binary-Search/search-insert-position/solution.py) | 🟢 Easy | `DSA` / `Binary-Search` |
-| 0028 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [PY](./DSA/Binary-Search/search-x-in-sorted-array/solution.py) | 🟢 Easy | `DSA` / `Binary-Search` |
-| 0029 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [PY](./DSA/Arrays/second-largest-element/solution.py) | 🟢 Easy | `DSA` / `Arrays` |
-| 0030 | [Selection Sort](./DSA/Sorting/selection-sort) | [PY](./DSA/Sorting/selection-sort/solution.py) | 🟢 Easy | `DSA` / `Sorting` |
-| 0031 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [PY](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
-| 0032 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [PY](./DSA/General/swap-two-numbers/solution.py) | 🟢 Easy | `DSA` |
+| 0027 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [PY](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.py) | 🟡 Medium | `DSA` / `Binary-Search` |
+| 0028 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [PY](./DSA/Binary-Search/search-insert-position/solution.py) | 🟢 Easy | `DSA` / `Binary-Search` |
+| 0029 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [PY](./DSA/Binary-Search/search-x-in-sorted-array/solution.py) | 🟢 Easy | `DSA` / `Binary-Search` |
+| 0030 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [PY](./DSA/Arrays/second-largest-element/solution.py) | 🟢 Easy | `DSA` / `Arrays` |
+| 0031 | [Selection Sort](./DSA/Sorting/selection-sort) | [PY](./DSA/Sorting/selection-sort/solution.py) | 🟢 Easy | `DSA` / `Sorting` |
+| 0032 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [PY](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.py) | 🟢 Easy | `DSA` / `Beginner-Problems` |
+| 0033 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [PY](./DSA/General/swap-two-numbers/solution.py) | 🟢 Easy | `DSA` |
 
 ---
 
