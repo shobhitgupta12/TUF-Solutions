@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **43** | 35 | 8 | 0 | `2026-10-27` |
+| **44** | 36 | 8 | 0 | `2026-10-27` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (43)
+### DSA (44)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -56,9 +56,10 @@
 | 0038 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [PY](./DSA/Binary-Search/search-x-in-sorted-array/solution.py) | 🟢 Easy | `Binary-Search` | `2026-09-15` |
 | 0039 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [PY](./DSA/Arrays/second-largest-element/solution.py) | 🟢 Easy | `Arrays` | `2026-09-13` |
 | 0040 | [Selection Sort](./DSA/Sorting/selection-sort) | [PY](./DSA/Sorting/selection-sort/solution.py) | 🟢 Easy | `Sorting` | `2026-09-13` |
-| 0041 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [PY](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.py) | 🟢 Easy | `Beginner-Problems` | `2026-09-12` |
-| 0042 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [PY](./DSA/General/swap-two-numbers/solution.py) | 🟢 Easy | `General` | `2026-09-12` |
-| 0043 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [PY](./DSA/Binary-Search/upper-bound/solution.py) | 🟡 Medium | `Binary-Search` | `2026-09-15` |
+| 0041 | [Sum of Digits in a Given Number](./DSA/Beginner-Problems/sum-of-digits-in-a-given-number) | [PY](./DSA/Beginner-Problems/sum-of-digits-in-a-given-number/solution.py) | 🟢 Easy | `Beginner-Problems` | `2026-10-27` |
+| 0042 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [PY](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.py) | 🟢 Easy | `Beginner-Problems` | `2026-09-12` |
+| 0043 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [PY](./DSA/General/swap-two-numbers/solution.py) | 🟢 Easy | `General` | `2026-09-12` |
+| 0044 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [PY](./DSA/Binary-Search/upper-bound/solution.py) | 🟡 Medium | `Binary-Search` | `2026-09-15` |
 
 ---
 
