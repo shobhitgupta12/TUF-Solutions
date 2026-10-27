@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **44** | 36 | 8 | 0 | `2026-10-27` |
+| **45** | 36 | 9 | 0 | `2026-10-27` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (44)
+### DSA (45)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -51,15 +51,16 @@
 | 0033 | [Print N To 1 Using Recursion](./DSA/Recursion/print-n-to-1-using-recursion) | [PY](./DSA/Recursion/print-n-to-1-using-recursion/solution.py) | 🟡 Medium | `Recursion` | `2026-09-12` |
 | 0034 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | 🟢 Easy | `Arrays` | `2026-09-13` |
 | 0035 | [Reverse an array](./DSA/Beginner-Problems/reverse-an-array) | [PY](./DSA/Beginner-Problems/reverse-an-array/solution.py) | 🟢 Easy | `Beginner-Problems` | `2026-10-26` |
-| 0036 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [PY](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.py) | 🟡 Medium | `Binary-Search` | `2026-09-15` |
-| 0037 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [PY](./DSA/Binary-Search/search-insert-position/solution.py) | 🟢 Easy | `Binary-Search` | `2026-09-15` |
-| 0038 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [PY](./DSA/Binary-Search/search-x-in-sorted-array/solution.py) | 🟢 Easy | `Binary-Search` | `2026-09-15` |
-| 0039 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [PY](./DSA/Arrays/second-largest-element/solution.py) | 🟢 Easy | `Arrays` | `2026-09-13` |
-| 0040 | [Selection Sort](./DSA/Sorting/selection-sort) | [PY](./DSA/Sorting/selection-sort/solution.py) | 🟢 Easy | `Sorting` | `2026-09-13` |
-| 0041 | [Sum of Digits in a Given Number](./DSA/Beginner-Problems/sum-of-digits-in-a-given-number) | [PY](./DSA/Beginner-Problems/sum-of-digits-in-a-given-number/solution.py) | 🟢 Easy | `Beginner-Problems` | `2026-10-27` |
-| 0042 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [PY](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.py) | 🟢 Easy | `Beginner-Problems` | `2026-09-12` |
-| 0043 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [PY](./DSA/General/swap-two-numbers/solution.py) | 🟢 Easy | `General` | `2026-09-12` |
-| 0044 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [PY](./DSA/Binary-Search/upper-bound/solution.py) | 🟡 Medium | `Binary-Search` | `2026-09-15` |
+| 0036 | [Reverse an array 2](./DSA/Beginner-Problems/reverse-an-array-ii) | [PY](./DSA/Beginner-Problems/reverse-an-array-ii/solution.py) | 🟡 Medium | `Beginner-Problems` | `2026-10-27` |
+| 0037 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [PY](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.py) | 🟡 Medium | `Binary-Search` | `2026-09-15` |
+| 0038 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [PY](./DSA/Binary-Search/search-insert-position/solution.py) | 🟢 Easy | `Binary-Search` | `2026-09-15` |
+| 0039 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [PY](./DSA/Binary-Search/search-x-in-sorted-array/solution.py) | 🟢 Easy | `Binary-Search` | `2026-09-15` |
+| 0040 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [PY](./DSA/Arrays/second-largest-element/solution.py) | 🟢 Easy | `Arrays` | `2026-09-13` |
+| 0041 | [Selection Sort](./DSA/Sorting/selection-sort) | [PY](./DSA/Sorting/selection-sort/solution.py) | 🟢 Easy | `Sorting` | `2026-09-13` |
+| 0042 | [Sum of Digits in a Given Number](./DSA/Beginner-Problems/sum-of-digits-in-a-given-number) | [PY](./DSA/Beginner-Problems/sum-of-digits-in-a-given-number/solution.py) | 🟢 Easy | `Beginner-Problems` | `2026-10-27` |
+| 0043 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [PY](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.py) | 🟢 Easy | `Beginner-Problems` | `2026-09-12` |
+| 0044 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [PY](./DSA/General/swap-two-numbers/solution.py) | 🟢 Easy | `General` | `2026-09-12` |
+| 0045 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [PY](./DSA/Binary-Search/upper-bound/solution.py) | 🟡 Medium | `Binary-Search` | `2026-09-15` |
 
 ---
 
