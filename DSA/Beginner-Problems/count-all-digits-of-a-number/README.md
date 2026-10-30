@@ -1,4 +1,4 @@
-# [Count all Digits of a Number](https://takeuforward.org/plus/dsa/problems/count-all-digits-of-a-number?source=strivers-a2z-dsa-track&tab=submissions)
+# [Count all Digits of a Number](https://takeuforward.org/practice/dsa/count-all-digits-of-a-number)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,25 +10,25 @@ You are given an integer **n** . You need to **return** the **number** of digits
 
 The number will have **no** leading zeroes, except when the number is **0** itself.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** n = 4
 
-**Input:** n = 4</p><p>
+**Output:** 1
 
-**Output:** 1</p><p>
+**Explanation:** There is only 1 digit in 4.
 
-**Explanation:** There is only 1 digit in 4.</p>
+### Example 2:
 
-### Example 2
+**Input:** n = 14
 
-<p>
+**Output:** 2
 
-**Input:** n = 14</p><p>
+**Explanation:** There are 2 digits in 14.
 
-**Output:** 2</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** There are 2 digits in 14.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -45,5 +45,5 @@ The number will have **no** leading zeroes, except when the number is **0** itse
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

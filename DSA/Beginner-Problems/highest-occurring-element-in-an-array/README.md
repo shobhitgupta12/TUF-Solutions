@@ -1,4 +1,4 @@
-# [Highest Occurring Element in an Array](https://takeuforward.org/plus/dsa/problems/highest-occurring-element-in-an-array?source=strivers-a2z-dsa-track&tab=submissions)
+# [Highest Occurring Element in an Array](https://takeuforward.org/practice/dsa/highest-occurring-element-in-an-array)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,25 +10,25 @@ Given an array **nums** of n integers, find the most frequent element in it i.e.
 
 *Please note that this section might seem a bit difficult without prior knowledge on what hashing is, we will soon try to add basics concepts for your ease! If you know the concepts already please go ahead to give a shot to the problem. Cheers!*
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, 2, 2, 3, 3, 3]
 
-**Input:** nums = [1, 2, 2, 3, 3, 3]</p><p>
+**Output:** 3
 
-**Output:** 3</p><p>
+**Explanation:** The number 3 appears the most (3 times).&nbsp;It is the most frequent element.
 
-**Explanation:** The number 3 appears the most (3 times).&nbsp;It is the most frequent element.</p>
+### Example 2:
 
-### Example 2
+**Input:** nums = [4, 4, 5, 5, 6]
 
-<p>
+**Output:** 4
 
-**Input:** nums = [4, 4, 5, 5, 6]</p><p>
+**Explanation:** Both 4 and 5 appear twice, but 4 is smaller. So, 4 is the most frequent element.
 
-**Output:** 4</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** Both 4 and 5 appear twice, but 4 is smaller. So, 4 is the most frequent element.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -45,5 +45,5 @@ Given an array **nums** of n integers, find the most frequent element in it i.e.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

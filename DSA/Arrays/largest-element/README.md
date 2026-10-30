@@ -1,4 +1,4 @@
-# [Largest Element](https://takeuforward.org/plus/dsa/problems/largest-element?source=strivers-a2z-dsa-track&tab=submissions)
+# [Largest Element](https://takeuforward.org/practice/dsa/largest-element)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,25 +8,25 @@
 
 Given an array of integers **nums** , return the value of the largest element in the array
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [3, 3, 6, 1]
 
-**Input:** nums = [3, 3, 6, 1]</p><p>
+**Output:** 6
 
-**Output:** 6</p><p>
+**Explanation:** The largest element in array is 6
 
-**Explanation:** The largest element in array is 6</p>
+### Example 2:
 
-### Example 2
+**Input:** nums = [3, 3, 0, 99, -40]
 
-<p>
+**Output:** 99
 
-**Input:** nums = [3, 3, 0, 99, -40]</p><p>
+**Explanation:** The largest element in array is 99
 
-**Output:** 99</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** The largest element in array is 99</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -44,5 +44,5 @@ Given an array of integers **nums** , return the value of the largest element in
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

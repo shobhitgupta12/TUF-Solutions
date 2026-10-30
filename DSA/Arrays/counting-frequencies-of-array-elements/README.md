@@ -1,4 +1,4 @@
-# [Counting Frequencies of Array Elements](https://takeuforward.org/plus/dsa/problems/counting-frequencies-of-array-elements?source=strivers-a2z-dsa-track&tab=submissions)
+# [Counting Frequencies of Array Elements](https://takeuforward.org/practice/dsa/counting-frequencies-of-array-elements)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -12,15 +12,15 @@ Return a list of pairs where each pair contains a unique element from the array 
 
 You may return the result in any order, but each element must appear exactly once in the output.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, 2, 2, 1, 3]
 
-**Input:** nums = [1, 2, 2, 1, 3]</p><p>
+**Output:** [[1, 2], [2, 2], [3, 1]]
 
-**Output:** [[1, 2], [2, 2], [3, 1]]</p><p>
+**Explanation:**
 
-**Explanation:** </p>- 1 appears 2 times
+- 1 appears 2 times
 
 - 2 appears 2 times
 
@@ -28,15 +28,19 @@ You may return the result in any order, but each element must appear exactly onc
 
 Order of output can vary.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [5, 5, 5, 5]
 
-**Input:** nums = [5, 5, 5, 5]</p><p>
+**Output:** [[5, 4]]
 
-**Output:** [[5, 4]]</p><p>
+**Explanation:**
 
-**Explanation:** </p>- 5 appears 4 times.
+- 5 appears 4 times.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -53,5 +57,5 @@ Order of output can vary.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

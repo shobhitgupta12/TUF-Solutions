@@ -1,4 +1,4 @@
-# [Pattern 12](https://takeuforward.org/plus/dsa/problems/pattern-12?category=beginner-problem&subcategory=patterns&tab=submissions)
+# [Pattern 12](https://takeuforward.org/practice/dsa/pattern-12)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,30 +8,35 @@
 
 Given an integer n. You need to recreate the pattern given below for any value of N. Let's say for N = 5, the pattern should look like as below:
 
-<pre class="ql-syntax" spellcheck="false">1 1
-12 21
-123 321
-1234 4321
+```
+1        1
+12      21
+123    321
+1234  4321
 1234554321
-</pre>
+```
 
 Print the pattern in the function given to you.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** n = 4
 
-**Input:** n = 4</p><p>
+**Output:**
 
-**Output:** </p><img src="https://static.takeuforward.org/content/ProblemSetter-om53n9b3">
+<img src="https://static.takeuforward.org/content/1789473808_6rg_5vBL.webp">
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** n = 2
 
-**Input:** n = 2</p><p>
+**Output:**
 
-**Output:** </p><img src="https://static.takeuforward.org/content/ProblemSetter-kOBSQo7b">
+<img src="https://static.takeuforward.org/content/1789473814_j5IerGEj.webp">
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -47,5 +52,5 @@ Print the pattern in the function given to you.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

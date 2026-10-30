@@ -1,4 +1,4 @@
-# [Factorial of a given number](https://takeuforward.org/plus/dsa/problems/factorial-of-a-given-number-i?source=strivers-a2z-dsa-track&tab=submissions)
+# [Factorial of a given number](https://takeuforward.org/practice/dsa/factorial-of-a-given-number-i)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,25 +10,25 @@ You are given an integer **n** . Return the value of **n!** or **n factorial** .
 
 **Factorial** of a number is the **product** of **all** positive integers less than or equal to that number.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** n = 2
 
-**Input:** n = 2</p><p>
+**Output:** 2
 
-**Output:** 2</p><p>
+**Explanation:** 2! = 1 * 2 = 2.
 
-**Explanation:** 2! = 1 * 2 = 2.</p>
+### Example 2:
 
-### Example 2
+**Input:** n = 0
 
-<p>
+**Output:** 1
 
-**Input:** n = 0</p><p>
+**Explanation:** 0! is defined as 1.
 
-**Output:** 1</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** 0! is defined as 1.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -44,5 +44,5 @@ You are given an integer **n** . Return the value of **n!** or **n factorial** .
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

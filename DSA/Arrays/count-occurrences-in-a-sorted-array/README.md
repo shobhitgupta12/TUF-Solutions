@@ -1,4 +1,4 @@
-# [Count Occurrences in a Sorted Array](https://takeuforward.org/plus/dsa/problems/count-occurrences-in-a-sorted-array?source=strivers-a2z-dsa-track&tab=submissions)
+# [Count Occurrences in a Sorted Array](https://takeuforward.org/practice/dsa/count-occurrences-in-a-sorted-array)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,25 +10,25 @@ You are given a sorted array of integers **arr** and an integer **target** . You
 
 Return the **count of occurrences of target** in the array.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** arr = [0, 0, 1, 1, 1, 2, 3], target = 1
 
-**Input:** arr = [0, 0, 1, 1, 1, 2, 3], target = 1</p><p>
+**Output:** 3
 
-**Output:** 3</p><p>
+**Explanation:** The number 1 appears 3 times in the array.
 
-**Explanation:** The number 1 appears 3 times in the array.</p>
+### Example 2:
 
-### Example 2
+**Input:** arr = [5, 5, 5, 5, 5, 5], target = 5
 
-<p>
+**Output:** 6
 
-**Input:** arr = [5, 5, 5, 5, 5, 5], target = 5</p><p>
+**Explanation:** All elements in the array are 5, so the target appears 6 times.
 
-**Output:** 6</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** All elements in the array are 5, so the target appears 6 times.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -46,5 +46,5 @@ Return the **count of occurrences of target** in the array.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

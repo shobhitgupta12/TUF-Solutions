@@ -1,4 +1,4 @@
-# [Second Largest Element](https://takeuforward.org/plus/dsa/problems/second-largest-element?source=strivers-a2z-dsa-track&approach=optimal&tab=submissions)
+# [Second Largest Element](https://takeuforward.org/practice/dsa/second-largest-element)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,25 +8,29 @@
 
 Given an array of integers **nums** , return the second-largest element in the array. If the second-largest element does not exist, return -1.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [8, 8, 7, 6, 5]
 
-**Input:** nums = [8, 8, 7, 6, 5]</p><p>
+**Output:** 7
 
-**Output:** 7</p><p>
+**Explanation:**
 
-**Explanation:** </p>The largest value in nums is 8, the second largest is 7
+The largest value in nums is 8, the second largest is 7
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [10, 10, 10, 10, 10]
 
-**Input:** nums = [10, 10, 10, 10, 10]</p><p>
+**Output:** -1
 
-**Output:** -1</p><p>
+**Explanation:**
 
-**Explanation:** </p>The only value in nums is 10, so there is no second largest value, thus -1 is returned
+The only value in nums is 10, so there is no second largest value, thus -1 is returned
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -44,5 +48,5 @@ Given an array of integers **nums** , return the second-largest element in the a
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

@@ -1,4 +1,4 @@
-# [Check if a Number is Power of 2 or Not](https://takeuforward.org/plus/dsa/problems/check-if-a-number-is-power-of-2-or-not?source=strivers-a2z-dsa-track&tab=submissions)
+# [Check if a Number is Power of 2 or Not](https://takeuforward.org/practice/dsa/check-if-a-number-is-power-of-2-or-not)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -12,7 +12,7 @@ An integer n is a power of two if there exists an integer x such that **n == 2**
 
 **You must solve it without using loops or recursion.**
 
-### Example 1
+### Example 1:
 
 Input: n = 1
 
@@ -20,15 +20,17 @@ Output: true
 
 Explanation: 2^0 = 1
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** n = 16
 
-**Input:** n = 16</p><p>
+**Output:** true
 
-**Output:** true</p><p>
+**Explanation:** 2^4 = 16
 
-**Explanation:** 2^4 = 16</p>
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -44,5 +46,5 @@ Explanation: 2^0 = 1
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

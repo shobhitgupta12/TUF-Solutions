@@ -1,4 +1,4 @@
-# [Bubble Sort](https://takeuforward.org/plus/dsa/problems/bubble-sort?source=strivers-a2z-dsa-track&tab=submissions)
+# [Bubble Sort](https://takeuforward.org/practice/dsa/bubble-sort)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,25 +10,29 @@ Given an array of integers called nums,sort the array in non-decreasing order us
 
 A sorted array in non-decreasing order is an array where each element is greater than or equal to all preceding elements in the array.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [7, 4, 1, 5, 3]
 
-**Input:** nums = [7, 4, 1, 5, 3]</p><p>
+**Output:** [1, 3, 4, 5, 7]
 
-**Output:** [1, 3, 4, 5, 7]</p><p>
+**Explanation:** 1 <= 3 <= 4 <= 5 <= 7.
 
-**Explanation:** 1 <= 3 <= 4 <= 5 <= 7.</p>Thus the array is sorted in non-decreasing order.
+Thus the array is sorted in non-decreasing order.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** nums = [5, 4, 4, 1, 1]
 
-**Input:** nums = [5, 4, 4, 1, 1]</p><p>
+**Output:** [1, 1, 4, 4, 5]
 
-**Output:** [1, 1, 4, 4, 5]</p><p>
+**Explanation:** 1 <= 1 <= 4 <= 4 <= 5.
 
-**Explanation:** 1 <= 1 <= 4 <= 4 <= 5.</p>Thus the array is sorted in non-decreasing order.
+Thus the array is sorted in non-decreasing order.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -46,5 +50,5 @@ A sorted array in non-decreasing order is an array where each element is greater
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

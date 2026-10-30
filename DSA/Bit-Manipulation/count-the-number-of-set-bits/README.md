@@ -1,4 +1,4 @@
-# [Count the Number of Set Bits](https://takeuforward.org/plus/dsa/problems/count-the-number-of-set-bits?source=strivers-a2z-dsa-track&tab=submissions)
+# [Count the Number of Set Bits](https://takeuforward.org/practice/dsa/count-the-number-of-set-bits)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -10,25 +10,25 @@ Given an integer **n** , return the number of set bits (1s) in its binary repres
 
 Can you solve it in **O(log n)** time complexity?
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** n = 5
 
-**Input:** n = 5</p><p>
+**Output:** 2
 
-**Output:** 2</p><p>
+**Explanation:** The binary representation of 5 is 101, which has 2 set bits.
 
-**Explanation:** The binary representation of 5 is 101, which has 2 set bits.</p>
+### Example 2:
 
-### Example 2
+**Input:** n = 15
 
-<p>
+**Output:** 4
 
-**Input:** n = 15</p><p>
+**Explanation:** The binary representation of 15 is 1111, which has 4 set bits.
 
-**Output:** 4</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** The binary representation of 15 is 1111, which has 4 set bits.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -44,5 +44,5 @@ Can you solve it in **O(log n)** time complexity?
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

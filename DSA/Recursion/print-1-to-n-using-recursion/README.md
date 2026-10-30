@@ -1,4 +1,4 @@
-# [Print 1 to N using Recursion](https://takeuforward.org/plus/dsa/problems/print-1-to-n-using-recursion?source=strivers-a2z-dsa-track&tab=submissions)
+# [Print 1 to N using Recursion](https://takeuforward.org/practice/dsa/print-1-to-n-using-recursion)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -11,13 +11,13 @@ Given an integer n, write a function to print all numbers from **1 to n (inclusi
 - You must not use any loops such as for, while, or do-while.
 - The function should print each number on a separate line, in increasing order from 1 to n.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** n = 5
 
-**Input:** n = 5</p><p>
+**Output:**
 
-**Output:** </p>1&nbsp;&nbsp;
+1&nbsp;&nbsp;
 
 2&nbsp;&nbsp;
 
@@ -27,13 +27,17 @@ Given an integer n, write a function to print all numbers from **1 to n (inclusi
 
 5
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** n = 1
 
-**Input:** n = 1</p><p>
+**Output:**
 
-**Output:** </p>1
+1
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -49,5 +53,5 @@ Given an integer n, write a function to print all numbers from **1 to n (inclusi
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

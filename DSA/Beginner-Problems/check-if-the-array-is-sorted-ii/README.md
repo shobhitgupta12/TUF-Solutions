@@ -1,4 +1,4 @@
-# [Check if the Array is Sorted II](https://takeuforward.org/plus/dsa/problems/check-if-the-array-is-sorted-ii?source=strivers-a2z-dsa-track&tab=submissions)
+# [Check if the Array is Sorted II](https://takeuforward.org/practice/dsa/check-if-the-array-is-sorted-ii)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,25 +8,25 @@
 
 Given an array **nums** of n integers, return true if the array nums is sorted in non-decreasing order or else false.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** nums = [1, 2, 3, 4, 5]
 
-**Input:** nums = [1, 2, 3, 4, 5]</p><p>
+**Output:** true
 
-**Output:** true</p><p>
+**Explanation:** For all i (1 <= i <= 4) it holds nums[i] <= nums[i+1], hence it is sorted and we return true.
 
-**Explanation:** For all i (1 <= i <= 4) it holds nums[i] <= nums[i+1], hence it is sorted and we return true.</p>
+### Example 2:
 
-### Example 2
+**Input:** nums = [1, 2, 1, 4, 5]
 
-<p>
+**Output:** false
 
-**Input:** nums = [1, 2, 1, 4, 5]</p><p>
+**Explanation:** For i == 2 it does not hold nums[i] <= nums[i+1], hence it is not sorted and we return false.
 
-**Output:** false</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** For i == 2 it does not hold nums[i] <= nums[i+1], hence it is not sorted and we return false.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -43,5 +43,5 @@ Given an array **nums** of n integers, return true if the array nums is sorted i
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

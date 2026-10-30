@@ -1,4 +1,4 @@
-# [Pattern 15](https://takeuforward.org/plus/dsa/problems/pattern-15?category=beginner-problem&subcategory=patterns&tab=submissions)
+# [Pattern 15](https://takeuforward.org/practice/dsa/pattern-15)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -20,21 +20,25 @@ A
 
 Print the pattern in the function given to you.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** n = 4
 
-**Input:** n = 4</p><p>
+**Output:**
 
-**Output:** </p><img src="https://static.takeuforward.org/content/ProblemSetter-8ZjzMsZW">
+<img src="https://static.takeuforward.org/content/1789473929_wKPRxm1L.webp">
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** n = 2
 
-**Input:** n = 2</p><p>
+**Output:**
 
-**Output:** </p><img src="https://static.takeuforward.org/content/ProblemSetter--1bPKu8A">
+<img src="https://static.takeuforward.org/content/1789473935_atjBfnR8.webp">
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -50,5 +54,5 @@ Print the pattern in the function given to you.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

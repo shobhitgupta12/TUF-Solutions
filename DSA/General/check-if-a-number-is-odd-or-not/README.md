@@ -1,4 +1,4 @@
-# [Check if a Number is Odd or Not](https://takeuforward.org/plus/dsa/problems/check-if-a-number-is-odd-or-not?source=strivers-a2z-dsa-track&tab=submissions)
+# [Check if a Number is Odd or Not](https://takeuforward.org/practice/dsa/check-if-a-number-is-odd-or-not)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -12,25 +12,25 @@ Return true if the number is odd, otherwise return false.
 
 A number is odd if it is not divisible by 2 **(i.e., n % 2 != 0)** .
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** n = 7
 
-**Input:** n = 7</p><p>
+**Output:** true
 
-**Output:** true</p><p>
+**Explanation:** 7 is not divisible by 2. Hence, it is odd.
 
-**Explanation:** 7 is not divisible by 2. Hence, it is odd.</p>
+### Example 2:
 
-### Example 2
+**Input:** n = 0
 
-<p>
+**Output:** false
 
-**Input:** n = 0</p><p>
+**Explanation:** 0 is divisible by 2. Hence, it is not odd.
 
-**Output:** false</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** 0 is divisible by 2. Hence, it is not odd.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -46,5 +46,5 @@ A number is odd if it is not divisible by 2 **(i.e., n % 2 != 0)** .
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
